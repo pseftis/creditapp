@@ -1,6 +1,6 @@
 class AppConstants {
   // API Endpoints (Mock)
-  static const String baseUrl = 'https://api.cred.club';
+  static const String baseUrl = 'https://api.ipomentor.ai';
   static const String cardsEndpoint = '/cards';
   static const String rewardsEndpoint = '/rewards';
   static const String transactionsEndpoint = '/transactions';
@@ -11,7 +11,7 @@ class AppConstants {
   static const String userNameKey = 'user_name';
   
   // App Constants
-  static const String appName = 'CRED Rewards';
+  static const String appName = 'IPO Mentor AI';
   static const String appVersion = '1.0.0';
   
   // UI Constants
